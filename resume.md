@@ -1,4 +1,4 @@
-># **Max Cross-etchason** 
+># **Max Cross-Etchason** 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Appalachian_State_Mountaineers_logo.svg" width="50"/>
  
 **Geogrpahy Student at [Appalachian State University](https://geo.appstate.edu)**
